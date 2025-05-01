@@ -70,10 +70,26 @@ function App() {
   const [isQuizComplete, setIsQuizComplete] = useState(false);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [showInstructions, setShowInstructions] = useState(false);
+  
+  function getRandomQuestions(allQuestions: Question[], count: number): Question[] {
+    const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, count);
+  }
+  
   useEffect(() => {
-    // Load questions from the JSON file
-    setQuestions(quizData.data.questions);
+    const allQuestions = quizData.data.questions;
+    const randomSet = getRandomQuestions(allQuestions, 10);
+    setQuestions(randomSet);
   }, []);
+  
+  // useEffect(() => {
+  //   // Shuffle and select 10 random questions
+  //   const allQuestions = [...quizData.data.questions];
+  //   const shuffled = allQuestions.sort(() => Math.random() - 0.5);
+  //   const selected = shuffled.slice(0, 10);
+  //   setQuestions(selected);
+  // }, []);
+  
 
   useEffect(() => {
     if (questions[currentQuestionIndex]) {
@@ -136,20 +152,35 @@ function App() {
     }
   };
 
+  // const handleRestart = () => {
+  //   setCurrentQuestionIndex(0);
+  //   setSelectedAnswers([]);
+  //   setUserAnswers([]);
+  //   setIsQuizComplete(false);
+  // };
   const handleRestart = () => {
+    const allQuestions = quizData.data.questions;
+    const newSet = getRandomQuestions(allQuestions, 10);
+  
+    setQuestions(newSet);
     setCurrentQuestionIndex(0);
     setSelectedAnswers([]);
     setUserAnswers([]);
     setIsQuizComplete(false);
   };
+  
 
   if (questions.length === 0) {
-    return (
-      <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500"></div>
+  return (
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+      <div className="text-center">
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-4"></div>
+        <p className="text-gray-600 font-medium">Preparing your quiz...</p>
       </div>
-    );
-  }
+    </div>
+  );
+}
+
 
   return (
     <div className="min-h-screen bg-gray-100">

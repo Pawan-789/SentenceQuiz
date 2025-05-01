@@ -82,7 +82,1808 @@
         "answerType": "options",
         "options": ["Enhancing", "Improved", "Providing", "Widespread"],
         "correctAnswer": ["Widespread", "Improved", "Enhancing", "Providing"]
+      },
+      {
+        "questionId": "610dec52-5c04-4239-bb7e-84ed1bcbb752",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "63d12913-bcb0-4e12-a1e6-92e993d4cdf0",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "09b7cae1-6bf2-4c5e-bf2a-78e1563d17a7",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "aca6d767-9dd0-464c-84de-9eed49e371bc",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "637e46fb-68de-49da-8389-ddac0480ef48",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "87ba6f07-d775-4b20-9ac3-c60281f17390",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "29cb0e85-51d5-4fe9-9c67-f0c59d7412bb",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "13406a1b-6127-41d7-9193-f893827ce83d",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "2f4fb85f-60e5-4f7b-96a2-de38c029e677",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "ea8d28ff-0859-4c8e-ab55-a906dae41967",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "1b783d8c-448a-4f7f-b9fb-9d54e3da3fc6",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "a970fdb4-5d16-476e-bdab-a266278590de",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "8360e16f-ae86-47f7-8770-99c66bb1ca6f",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "8594d643-1515-4e7c-9db1-1749d60ed4d9",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "067b3546-7795-4164-9be6-34ea3f3e7842",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "f078584b-16ec-4896-84b1-cac2aeb8e501",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "f2b05b08-7d5f-4236-8d51-9e4991e9b8ce",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "ac65208e-ae47-4c30-91e1-fda4c5efc147",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "549cc67c-eeb0-4de2-a64f-b5061183bd68",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "a92eba45-42e3-405d-8f2f-bec448c32f18",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "bc3a5c15-e143-49fa-b1a6-a07ee4ec5db9",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "c547abee-fa63-497d-80fa-aeed3e6c37b6",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "e16904e6-2004-4aa8-bfc1-5baef9d9724a",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "6c894de3-034d-40e5-aea8-a15e02b4677b",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "3e4a2210-f694-4095-bcb8-4cd8670a4870",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "5ade1dea-4c79-45d0-b20c-1e206bd68801",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "29b5a7b7-8b74-4b45-9687-da925443cf60",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "bbaf06d7-86ba-475d-b866-91caf67e8510",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "0b06e928-72af-4ab6-9c7f-f27db388fbb6",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "5b14f764-8850-42f9-85b7-fc08c34df4f3",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "8e278495-7b45-4059-92e6-0d3a6737345e",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "c8b85bb6-b00c-4959-b777-b9e5b0aa8e43",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "f7091a91-0e72-4380-889c-42eafce970f7",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "ee9b7a58-5500-4660-acdf-40f7e45baeb2",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "71e68b47-a393-46c2-8048-b1655bb4c8a5",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "44014eca-82d2-4938-b1d6-9756d36a322d",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "93d5741d-5787-4429-9778-29f1c816cd48",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "205ae3c7-3566-4e24-baa3-ec6ab91912c9",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "9d6c28cf-71ac-4a78-a5a3-4b1af922d10d",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "07a988f7-fe9b-4e99-bf33-f15e378eef33",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "6d09cf45-fa11-487f-8b7b-07b874cc04a7",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "203cb0d3-2407-41ba-9248-98668b647dec",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "97980aca-416f-469a-b52d-caa15b748eac",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "7a968719-8cb8-4d50-bd6b-3bc38ef4b2ac",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "63767483-f288-441d-993b-d1da9e361a6b",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "a2f13fdf-70e9-4af6-a64f-1a8360029faf",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "1b4c9392-a6d4-4760-8678-14b9e011f1e3",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "70750a50-6fd7-4296-90cd-310a41e93a25",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "69f6e4bc-9b27-4cc4-982c-691e96b266ca",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "00fc1850-54f8-40ed-a1c9-954c0df4e53a",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "37a4b0d7-d056-44ed-9eb8-f27bb2af5d7a",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "f46cd44d-2210-46c4-bc91-5e37312e2e37",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "286d5d7e-b2cb-4b9d-a6ba-d79d95a23b60",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "2c917444-961f-4b6c-bf18-2a717b3b181d",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "58eb9f48-2808-47fd-a1ad-088bc01c839b",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "4177c6f2-bd35-45dd-b8bb-f0001d7451d0",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "b9d79655-1fb4-4c1d-815c-71dc50955df7",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "2f444f58-bd50-457a-8998-d844547c1948",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "f4a4f780-de41-49d2-bd55-037b1482642d",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "c2608620-f676-46eb-bba6-a66a03dfb57d",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "89377608-e987-4932-9cc9-0a58c0a5f659",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "c6d38bd5-223b-4185-bf93-34bf05c50657",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "0f18c257-21b2-406a-ae70-be9f80dc6818",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "5a6521eb-1445-4850-8401-b2439c243649",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "95fa04ee-cdaa-4695-b229-c88754e14c1b",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "f8419947-993a-4eaf-86cd-f3b232c29a2c",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "20283a51-247b-4cd4-b1b6-2e8e1aa7fb15",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "177e026c-23e5-420c-9b86-854d1e917a6f",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "b5765ff2-58fc-4495-8096-27fe56360993",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "4f16fe88-822d-491e-b77c-7199da75dd86",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "8ebb22d0-365c-450e-83ae-b36fef8f6df6",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "f2b0ad9a-15b0-4c19-9b0b-50f7b422bd2c",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "b15e7919-8f53-45f0-9fd1-dc34358cd0d9",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "168ba0ab-6ab8-4814-b7db-d585967b1974",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "2d63bfcb-928c-42c4-b1ac-2011275bfbbc",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "23661fe4-4af7-4dd3-8437-6ea6dceefee7",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "59ccae0a-0ac8-49bf-8f58-a2d3bf2cbbf6",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "e62bd77e-2884-4950-b2f7-9bfb356d09e2",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "d544b71f-bc48-4483-a0b9-3791bdc5d183",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "606d1118-6af3-460d-a3d5-bc7baa4e5e81",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "a502f45a-cfb4-4523-b681-55e668ae2c43",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "55ad9b90-8441-4504-a478-7df93e0d86f2",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "81cf0ae6-b519-4d31-85ee-825894ee3514",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "0239b8da-368e-4868-bf3b-01f595c0aba8",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "14c54b2a-7793-476b-bcbb-4c261bc666a1",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "85e6bc05-1be5-4fcf-9ed9-bb7907343512",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "bfe2cc45-0fda-4e08-adf9-50ad510dc359",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "372a7104-acdb-4404-93dd-7bd167ef943b",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "f6cc198f-6fec-49cf-aef3-5f3125640322",
+        "question": "The _____________ efforts of the research team _____________ groundbreaking discoveries, _____________ scientific knowledge and _____________ new innovations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Expanding",
+          "Led to",
+          "Dedicated",
+          "Sparking"
+        ],
+        "correctAnswer": [
+          "Dedicated",
+          "Led to",
+          "Expanding",
+          "Sparking"
+        ]
+      },
+      {
+        "questionId": "cbf4be14-0ff7-4ebe-a40d-eccc0fb1cedc",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "f53dc262-0f2d-4f38-9956-b9c36ee38458",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "af3482b9-a3cb-41bc-96b9-aff754297153",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "884e5aaf-ed86-4ea8-aa44-32a645e69c51",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "5a47e968-3079-4916-8b3f-3f54e10a0d70",
+        "question": "The _____________ launch of the new smartphone model _____________ customer expectations, _____________ advanced features and _____________ the brand\u2019s position in the market.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Exceeded",
+          "Reinforced",
+          "Strategic",
+          "Introducing"
+        ],
+        "correctAnswer": [
+          "Strategic",
+          "Exceeded",
+          "Introducing",
+          "Reinforced"
+        ]
+      },
+      {
+        "questionId": "177052b1-398f-4b49-8bb0-d883f834f1f3",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "b0f74268-791b-4b7f-9af7-4fb18a6f039d",
+        "question": "The _____________ rise in e-learning platforms _____________ flexible access to education, _____________ digital literacy and _____________ lifelong learning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Empowering",
+          "Boosting",
+          "Facilitated",
+          "Rapid"
+        ],
+        "correctAnswer": [
+          "Rapid",
+          "Facilitated",
+          "Empowering",
+          "Boosting"
+        ]
+      },
+      {
+        "questionId": "25c19a61-9b22-4083-b36b-c724917c2fbe",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
+      },
+      {
+        "questionId": "d0ca4530-bb6d-4d9d-a10b-82500d4c0a2e",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "bde52d59-3b56-4588-b8b4-0aa19afc5e05",
+        "question": "The _____________ growth of renewable energy technologies _____________ global efforts to combat climate change, _____________ reliance on fossil fuels and _____________ a cleaner future.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ],
+        "correctAnswer": [
+          "Accelerating",
+          "Supports",
+          "Reducing",
+          "Enabling"
+        ]
+      },
+      {
+        "questionId": "900b17bb-7ee6-4a96-8195-21af97ca4346",
+        "question": "The _____________ exhibition _____________ innovative artwork from young creators, _____________ new perspectives and _____________ creativity in the art world.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": [
+          "Showcased",
+          "Highlighting",
+          "Fostering",
+          "Contemporary"
+        ],
+        "correctAnswer": [
+          "Contemporary",
+          "Showcased",
+          "Highlighting",
+          "Fostering"
+        ]
       }
+
     ]
   },
   "message": "Questions fetched successfully",

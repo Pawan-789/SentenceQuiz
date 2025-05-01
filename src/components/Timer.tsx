@@ -1,5 +1,4 @@
-
-import  { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Timer as TimerIcon } from 'lucide-react';
 
 interface TimerProps {
@@ -11,7 +10,6 @@ export function Timer({ seconds, onTimeUp }: TimerProps) {
   const [timeLeft, setTimeLeft] = useState(seconds);
 
   useEffect(() => {
-    setTimeLeft(seconds); // reset on prop change
     const interval = setInterval(() => {
       setTimeLeft((prev) => {
         if (prev <= 1) {
@@ -24,7 +22,7 @@ export function Timer({ seconds, onTimeUp }: TimerProps) {
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [seconds, onTimeUp]);
+  }, [onTimeUp]); 
 
   return (
     <div className="flex items-center gap-2 text-lg font-semibold">

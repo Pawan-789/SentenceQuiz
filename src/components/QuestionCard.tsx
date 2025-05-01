@@ -34,7 +34,8 @@ export function QuestionCard({
           <UserCircle className="w-8 h-8 text-blue-500" />
           <span className="text-lg font-semibold text-gray-700">{userName}</span>
         </div>
-        <Timer seconds={30} onTimeUp={onTimeUp} />
+        <Timer key={question.questionId} seconds={30} onTimeUp={onTimeUp} />
+
       </div>
 
       <div className="mb-6">
